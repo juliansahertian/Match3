@@ -1,0 +1,27 @@
+<project>
+ <properties autorotation="0" encrypt="0" fps="60" scaleMode="0" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="global.lua"/>
+ <folder name="Scene">
+  <file source="InGame.lua"/>
+ </folder>
+ <folder name="lib">
+  <file source="lib/SceneManager.lua"/>
+ </folder>
+ <folder name="aset">
+  <folder name="image">
+   <file source="aset/image/tombol.png"/>
+   <file source="aset/image/mintRed.png"/>
+   <file source="aset/image/mintGreen.png"/>
+   <file source="aset/image/candyYellow.png"/>
+   <file source="aset/image/candyOrange.png"/>
+   <file source="aset/image/candyGreen.png"/>
+   <file source="aset/image/candyBlue.png"/>
+   <file source="aset/image/beanPurple.png"/>
+   <file source="aset/image/beanBlue.png"/>
+   <file source="aset/image/back2.png"/>
+  </folder>
+ </folder>
+ <file source="main.lua"/>
+</project>
